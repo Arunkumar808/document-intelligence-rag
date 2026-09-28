@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env/
+.streamlit/secrets.toml
+
+# User-uploaded documents
+data/*.pdf
+
+# Generated vector index
+vectorstore/*
+!vectorstore/.gitkeep
+
+.DS_Store

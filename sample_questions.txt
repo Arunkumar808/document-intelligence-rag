@@ -1,0 +1,10 @@
+Sample questions for testing the application:
+
+1. What is the main purpose of this document?
+2. What are the key system components?
+3. Explain the installation process.
+4. What are the required configuration parameters?
+5. What security considerations are mentioned?
+6. What limitations or constraints are described?
+7. Which page explains the architecture?
+8. What happens if a required configuration is missing?
